@@ -4,7 +4,7 @@
 
 Maintained by the [MDN team at Mozilla](https://wiki.mozilla.org/MDN).
 
-WebExtensions are a way to write browser extensions: that is, programs
+WebExtensions are a way to write browser extensions: i.e, programs
 installed inside a web browser that modify the behaviour of the browser or
 of web pages loaded by the browser. They are built on a set of
 cross-browser APIs, so WebExtensions written for Google Chrome or Opera will
